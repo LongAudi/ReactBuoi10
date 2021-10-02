@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Phan Long",
+        "tel": "090999999",
+        "Permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Lê Hoàng Long",
+        "tel": "0708941234",
+        "Permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Long Lê",
+        "tel": "0902121212",
+        "Permission": 2
+    },
+    {
+        "id": 4,
+        "name": "Lê Nguyễn Thắng Tài Ngu Như Bò",
+        "tel": "09011111111",
+        "Permission": 3
+    },
+    {
+        "id": 5,
+        "name": "Long Đẹp Trai",
+        "tel": "09033333",
+        "Permission": 3
+    }
+]
